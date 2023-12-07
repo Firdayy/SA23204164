@@ -1,0 +1,17 @@
+Package: SA23204164
+Type: Package
+Title: Final assignment for 'Statistical Computing' course
+Version: 1.0
+Date: 2023-11-27
+Author: Shuang Jiang
+Maintainer: Shuang Jiang <2656065598@qq.com>
+Description: Several R and Rcpp function are included in this package for illustration, and so is all the homework.
+License: GPL (>= 2)
+Imports: RcppArmadillo, Rcpp, stats, microbenchmark, DAAG, boot, bootstrap, coda, dslabs, ggplot2, DT, htmltools
+LinkingTo: Rcpp, RcppArmadillo
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.2.3
+Encoding: UTF-8
+URL: http://github.com/Firdayy/SA23204164
+BugReports: http://github.com/Firdayy/SA23204164/issues
